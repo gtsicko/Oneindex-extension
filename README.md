@@ -20,7 +20,7 @@ var url_schema = "potplayer://";
 
 - 桌面端
   - [油猴](http://www.tampermonkey.net/)
-    - 全部复制
+    - 复制到新的脚本
 - 安卓端
   - [via](https://www.coolapk.com/apk/mark.via)
     - 将函数部分插入
