@@ -24,3 +24,7 @@ var url_schema = "potplayer://";
 - 安卓端
   - [via](https://www.coolapk.com/apk/mark.via)
     - 将函数部分插入
+
+## 使用示意图
+
+![Show](https://s2.ax1x.com/2019/09/05/ned3xs.gif)
